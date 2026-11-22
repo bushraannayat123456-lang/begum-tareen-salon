@@ -1,0 +1,6 @@
+{
+  "name": "Begum Tareen Beauty Salon",
+  "description": "Luxury bridal makeup, hair styling, skincare, and beauty services at Begum Tareen Beauty Salon in Ghazikot Township, Mansehra, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
